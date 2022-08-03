@@ -1,0 +1,2 @@
+# textos
+para guardar textos
